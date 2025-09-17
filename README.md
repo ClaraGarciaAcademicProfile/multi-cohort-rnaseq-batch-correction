@@ -20,7 +20,7 @@ El análisis incluye:
 
 ## Estructura del código
 
-- `analysis.R`: Script principal con todo el pipeline de análisis
+- `Batch_effect_correction_and_integration.R`: Script principal con todo el pipeline de análisis
 - Los datos deben colocarse en el directorio raíz del proyecto
 
 ## Requisitos
