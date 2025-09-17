@@ -1,4 +1,4 @@
-# Análisis de expresión génica en gliomas
+# Análisis de expresión génica en gliomas (con datos de GEO y TCGA, counts). Abarca normalización por TMM, ComBat, y visualización PCA/UMAP
 
 Análisis comparativo de datos de expresión génica entre diferentes tipos de gliomas usando datasets públicos de GEO y TCGA.
 
